@@ -1,4 +1,7 @@
-## OpenSeaCreatures ERC721 contracts
+## OpenSeaCreatures ERC721 contract hosted on OpenSea here: 
+
+Created an Elf creature and published on openSea
+
 
 ### About OpenSeaCreatures.
 
